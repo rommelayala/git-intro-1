@@ -6,4 +6,5 @@
 3. Flash Reverso
 4. Doomsday
 5. Deadshot
-6.-Rommel
+6. Rommel
+7. Lolo fernandez
